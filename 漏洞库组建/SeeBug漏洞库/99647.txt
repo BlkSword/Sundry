@@ -1,0 +1,9 @@
+提交时间: 2023-02-20
+漏洞等级: 高危
+漏洞类别: 安全模式绕过
+CVE-ID: CVE-2023-23752
+影响组件: 
+                              Joomla!
+                            
+来源: https://developer.joomla.org/security-centre/894-20230201-core-improper-access-check-in-webservice-endpoints.html
+网址: https://www.seebug.org/vuldb/ssvid-{number}

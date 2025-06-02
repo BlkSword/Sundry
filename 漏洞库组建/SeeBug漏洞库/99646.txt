@@ -1,0 +1,9 @@
+提交时间: 2023-02-10
+漏洞等级: 高危
+漏洞类别: 代码执行
+CVE-ID: CVE-2023-22952
+影响组件: 
+                              SugarCRM
+                            
+来源: https://seclists.org/fulldisclosure/2022/Dec/31
+网址: https://www.seebug.org/vuldb/ssvid-{number}

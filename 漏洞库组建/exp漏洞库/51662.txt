@@ -1,0 +1,7 @@
+EDB-ID: 51662
+CVE: N/A
+作者: Mirabbas Ağalarov
+类型: webapps
+平台: PHP
+日期: 2023-08-04
+Raw URL: https://www.exploit-db.com/raw/51662

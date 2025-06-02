@@ -1,0 +1,9 @@
+提交时间: 2023-02-20
+漏洞等级: 高危
+漏洞类别: 登录绕过
+CVE-ID: CVE-2023-23752
+影响组件: 
+                              Joomla!
+                            
+来源: https://xz.aliyun.com/t/12175
+网址: https://www.seebug.org/vuldb/ssvid-{number}

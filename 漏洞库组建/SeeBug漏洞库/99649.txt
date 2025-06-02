@@ -1,0 +1,9 @@
+提交时间: 2023-02-21
+漏洞等级: 高危
+漏洞类别: 文件上传
+CVE-ID: 补充 
+影响组件: 
+                              畅捷通T+
+                            
+来源: https://github.com/LittleBear4/-17.0CNVD-2022-60632
+网址: https://www.seebug.org/vuldb/ssvid-{number}
