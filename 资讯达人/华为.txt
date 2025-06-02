@@ -1,0 +1,120 @@
+标题：安全通告 - 涉及华为全屋音乐系统产品的路径穿越漏洞
+链接：http://www.huawei.com/cn/psirt/security-advisories/2024/huawei-sa-ptvihhms-91f7c6fa-cn
+类型： 
+内容：
+发布日期：2024-12-11T000000
+
+标题：安全通告 - 华为全屋音乐系统路径穿越漏洞
+链接：http://www.huawei.com/cn/psirt/security-advisories/2024/huawei-sa-ptvihhms-20747ba3-cn
+类型： 
+内容：
+发布日期：2024-06-19T000000
+
+标题：安全通告 - 涉及部分华为家庭路由器的连接劫持漏洞
+链接：http://www.huawei.com/cn/psirt/security-advisories/2024/huawei-sa-chvishhr-d616b19e-cn
+类型： 
+内容：
+发布日期：2024-06-19T000000
+
+标题：安全通告 - 涉及华为部分家庭路由产品的连接劫持漏洞
+链接：http://www.huawei.com/cn/psirt/security-advisories/2024/huawei-sa-chvishhr-d50dedde-cn
+类型： 
+内容：
+发布日期：2024-04-24T000000
+
+标题：安全通告 - 涉及华为智能音箱部分产品的内存溢出漏洞
+链接：http://www.huawei.com/cn/psirt/security-advisories/2024/huawei-sa-samovishss-28e21e39-cn
+类型： 
+内容：
+发布日期：2024-04-17T000000
+
+标题：安全通告 - 涉及华为PC部分产品的内存缓冲区边界操作限制不当漏洞
+链接：http://www.huawei.com/cn/psirt/security-advisories/2024/huawei-sa-hppvtiroowtboamb-bb3261bd-cn
+类型： 
+内容：
+发布日期：2024-04-17T000000
+
+标题：安全通告 - 涉及华为终端PC部分产品接口权限控制不当的漏洞
+链接：http://www.huawei.com/cn/psirt/security-advisories/2024/huawei-sa-iiacviahpp-71ce77ee-cn
+类型： 
+内容：
+发布日期：2024-04-17T000000
+
+标题：安全通告 - 涉及华为终端PC部分产品异常条件检查不当的漏洞
+链接：http://www.huawei.com/cn/psirt/security-advisories/2024/huawei-sa-hppvticfuoec-8ffde288-cn
+类型： 
+内容：
+发布日期：2024-04-17T000000
+
+标题：安全通告 - 涉及华为终端PC部分产品对参数长度不一致的处理不当漏洞
+链接：http://www.huawei.com/cn/psirt/security-advisories/2024/huawei-sa-iholpiiahpp-0ab7d6db-cn
+类型： 
+内容：
+发布日期：2024-04-17T000000
+
+标题：安全通告 - 涉及华为终端PC部分产品接口权限控制不当的漏洞
+链接：http://www.huawei.com/cn/psirt/security-advisories/2024/huawei-sa-voiiaciahpp-6376e0c7-cn
+类型： 
+内容：
+发布日期：2024-04-17T000000
+
+标题：安全通告 - 涉及华为终端智慧屏部分产品的身份认证绕过漏洞
+链接：http://www.huawei.com/cn/psirt/security-advisories/2023/huawei-sa-ibvishssp-4bf951d4-cn
+类型： 
+内容：
+发布日期：2023-12-06T000000
+
+标题：安全通告 - 涉及华为路由器产品的流量劫持漏洞
+链接：http://www.huawei.com/cn/psirt/security-advisories/2023/huawei-sa-thvihr-7015cbae-cn
+类型： 
+内容：
+发布日期：2023-05-17T000000
+
+标题：安全通告 - 涉及华为某打印机产品的系统命令注入漏洞
+链接：http://www.huawei.com/cn/psirt/security-advisories/2023/huawei-sa-sciviahpp-6bcddec5-cn
+类型： 
+内容：
+发布日期：2023-04-26T000000
+
+标题：安全通告 - 涉及华为HiLink AI Life产品的身份认证绕过漏洞
+链接：http://www.huawei.com/cn/psirt/security-advisories/2023/huawei-sa-iabvihhalp-ea34d670-cn
+类型： 
+内容：
+发布日期：2023-04-26T000000
+
+标题：安全通告 - 涉及华为某打印机产品的对输入的错误解析类漏洞
+链接：http://www.huawei.com/cn/psirt/security-advisories/2023/huawei-sa-moivihp-2f201af9-cn
+类型： 
+内容：
+发布日期：2023-04-26T000000
+
+标题：安全通告 - 涉及华为某打印机产品的对输入的错误解析类漏洞
+链接：http://www.huawei.com/cn/psirt/security-advisories/2023/huawei-sa-moivihp-73cabdde-cn
+类型： 
+内容：
+发布日期：2023-04-26T000000
+
+标题：安全通告 - 涉及华为某音箱产品的越界写入漏洞
+链接：http://www.huawei.com/cn/psirt/security-advisories/2023/huawei-sa-oobwviatp-89e403d4-cn
+类型： 
+内容：
+发布日期：2023-03-01T000000
+
+标题：关于E5573Cs-322产品存在拒绝服务漏洞的声明
+链接：http://www.huawei.com/cn/psirt/security-notices/2021/huawei-sn-20230210-01-dos-cn
+类型： 
+内容：
+发布日期：2023-02-10T000000
+
+标题：安全通告 - 涉及华为儿童智能手表（Simba-AL00）的身份认证绕过漏洞
+链接：http://www.huawei.com/cn/psirt/security-advisories/2023/huawei-sa-iabvithcswsa-c385b2dc-cn
+类型： 
+内容：
+发布日期：2023-02-08T000000
+
+标题：安全通告 - 涉及华为全屋智能某软件的不正确的权限分配漏洞
+链接：http://www.huawei.com/cn/psirt/security-advisories/2023/huawei-sa-ipavihwhis-1556afc2-cn
+类型： 
+内容：
+发布日期：2023-02-01T000000
+

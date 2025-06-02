@@ -1,0 +1,120 @@
+标题：2025年数字安全十大趋势预测：挑战、机遇、变革与战略布局
+链接：https://www.anquanke.com/post/id/303249
+类型：安全客
+内容：微信
+发布日期：2025-01-03 112851
+
+标题：已打补丁但仍有漏洞 Windows BitLocker 加密再次被绕过
+链接：https://www.anquanke.com/post/id/303246
+类型：安全客
+内容：securityonline
+发布日期：2025-01-03 112109
+
+标题：CVE-2024-21182： 针对严重 WebLogic 漏洞发布 PoC 漏洞利用代码
+链接：https://www.anquanke.com/post/id/303243
+类型：安全客
+内容：securityonline
+发布日期：2025-01-03 111529
+
+标题：日本最大移动运营商称网络攻击中断了部分服务
+链接：https://www.anquanke.com/post/id/303240
+类型：安全客
+内容：therecord
+发布日期：2025-01-03 110209
+
+标题：新的 DoubleClickjacking 攻击利用双击来劫持帐户
+链接：https://www.anquanke.com/post/id/303236
+类型：安全客
+内容：bleepingcomputer
+发布日期：2025-01-03 105302
+
+标题：揭开虚假人气的面纱： 研究揭露 GitHub 上的 450 万颗假星
+链接：https://www.anquanke.com/post/id/303233
+类型：安全客
+内容：securityonline
+发布日期：2025-01-03 104142
+
+标题：苹果公司将支付 9500 万美元解决 Siri 隐私诉讼
+链接：https://www.anquanke.com/post/id/303230
+类型：安全客
+内容：therecord
+发布日期：2025-01-03 102954
+
+标题：跨域攻击： 现代安全面临的日益严重的威胁以及如何应对这些威胁
+链接：https://www.anquanke.com/post/id/303227
+类型：安全客
+内容：TheHackersNews
+发布日期：2025-01-03 102130
+
+标题：假冒 7-Zip 漏洞代码源于人工智能生成的误解
+链接：https://www.anquanke.com/post/id/303224
+类型：安全客
+内容：hackread
+发布日期：2025-01-03 101225
+
+标题：官员警告：黑客泄露了罗德岛州勒索软件攻击的数据
+链接：https://www.anquanke.com/post/id/303221
+类型：安全客
+内容：cybersecuritydive
+发布日期：2025-01-03 100405
+
+标题：2024年度盘点之漏洞威胁：AI技术降低漏洞利用门槛，网络边缘设备成重灾区
+链接：https://www.anquanke.com/post/id/303208
+类型：安全客
+内容：微信
+发布日期：2025-01-02 165155
+
+标题：66,000 台 DrayTek 网关存在远程命令注入漏洞 (CVE-2024-12987)，已发布 PoC
+链接：https://www.anquanke.com/post/id/303205
+类型：安全客
+内容：securityonline
+发布日期：2025-01-02 164112
+
+标题：D-Link 就易受僵尸网络攻击的报废路由器发出警告
+链接：https://www.anquanke.com/post/id/303202
+类型：安全客
+内容：securityonline
+发布日期：2025-01-02 163511
+
+标题：CVE-2024-12108 (CVSS 9.6) 及更高版本： Progress 为 WhatsUp Gold 网络监控软件发布关键补丁程序
+链接：https://www.anquanke.com/post/id/303199
+类型：安全客
+内容：securityonline
+发布日期：2025-01-02 162746
+
+标题：针对 Windows 零点击漏洞 CVE-2024-49112 发布 PoC 漏洞利用程序
+链接：https://www.anquanke.com/post/id/303196
+类型：安全客
+内容：securityonline
+发布日期：2025-01-02 162029
+
+标题：拟议更新HIPAA安全规则授权，以在72小时内恢复某些相关电子信息系统和数据的丢失
+链接：https://www.anquanke.com/post/id/303193
+类型：安全客
+内容：securityaffairs
+发布日期：2025-01-02 151533
+
+标题：新的 “双重点击劫持 ”漏洞绕过了主要网站的点击劫持保护措施
+链接：https://www.anquanke.com/post/id/303187
+类型：安全客
+内容：TheHackersNews
+发布日期：2025-01-02 145340
+
+标题：新的 IOCONTROL 恶意软件用于关键基础设施攻击
+链接：https://www.anquanke.com/post/id/303182
+类型：安全客
+内容：嘶吼
+发布日期：2025-01-02 144444
+
+标题：2025 年医疗保健网络监管和立法前景如何？
+链接：https://www.anquanke.com/post/id/303179
+类型：安全客
+内容：govinfosecurity
+发布日期：2025-01-02 142741
+
+标题：FortiGuard Labs 将新的 EC2 Grouper 黑客与 AWS 凭证漏洞联系起来
+链接：https://www.anquanke.com/post/id/303176
+类型：安全客
+内容：hackread
+发布日期：2025-01-02 141955
+

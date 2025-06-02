@@ -1,0 +1,60 @@
+标题：绿盟威胁情报月报-2024年12月
+链接：http://blog.nsfocus.net/2024-12/
+类型：威胁通告
+内容：12 月，绿盟科技威胁情报中心（NTI）发布了多个漏洞和威胁事件通告，包含Zabbix服务器SQL注入漏洞（C<p class="more-link"><a href="https//blog.nsfocus.net/2024-12/" class="themebutton">Read More</a></p>
+发布日期：Fri, 03 Jan 2025 103132 +0000
+
+标题：绿盟科技威胁情报（2024.12.23-2024.12.29）
+链接：http://blog.nsfocus.net/2024122320241229/
+类型：威胁通告
+内容：本周热点概览 威胁通告 Adobe ColdFusion任意文件读取漏洞（CVE-2024-53961）通告 <p class="more-link"><a href="https//blog.nsfocus.net/2024122320241229/" class="themebutton">Read More</a></p>
+发布日期：Tue, 31 Dec 2024 023733 +0000
+
+标题：Apache Tomcat条件竞争代码执行漏洞（CVE-2024-50379/CVE-2024-56337）
+链接：http://blog.nsfocus.net/apache-tomcatcve-2024-50379-cve-2024-56337/
+类型：威胁通告
+内容：近日，绿盟科技CERT监测到Apache发布安全公告，修复了Apache Tomcat条件竞争代码执行漏洞（CVE-2024-50379/CVE-2024-56337）。
+发布日期：Mon, 23 Dec 2024 084156 +0000
+
+标题：Apache Tomcat条件竞争代码执行漏洞（CVE-2024-50379）
+链接：http://blog.nsfocus.net/apache-tomcacve-2024-50379/
+类型：威胁通告
+内容：近日，绿盟科技CERT监测到Apache发布安全公告，修复了Apache Tomcat条件竞争代码执行漏洞（CVE-2024-50379）。
+发布日期：Thu, 19 Dec 2024 023830 +0000
+
+标题：Apache Struts任意文件上传漏洞S2-067(CVE-2024-53677)
+链接：http://blog.nsfocus.net/apache-strutss2-067cve-2024-53677/
+类型：威胁通告
+内容：近日，绿盟科技CERT监测到Apache发布安全公告，修复了Apache Struts任意文件上传漏洞S2-067(CVE-2024-53677)。
+发布日期：Thu, 19 Dec 2024 023523 +0000
+
+标题：绿盟科技威胁周报（2024.12.09-2024.12.15）
+链接：http://blog.nsfocus.net/weeklyreport202450/
+类型：威胁通告
+内容：盟科技威胁周报2024年第50周。
+发布日期：Mon, 16 Dec 2024 065529 +0000
+
+标题：WEB前端逆向拦截页面跳转
+链接：http://blog.nsfocus.net/web/
+类型：安全分享
+内容：WEB前端逆向拦截页面跳转
+发布日期：Wed, 11 Dec 2024 024538 +0000
+
+标题：绿盟科技威胁周报（2024.12.02-2024.12.08）
+链接：http://blog.nsfocus.net/weeklyreport202449/
+类型：威胁通告
+内容：绿盟科技威胁周报2024年第49周。
+发布日期：Wed, 11 Dec 2024 023630 +0000
+
+标题：Zabbix服务器SQL注入漏洞（CVE-2024-42327）
+链接：http://blog.nsfocus.net/zabbixcve-2024-42327/
+类型：威胁通告
+内容：近日，绿盟科技CERT监测到Zabbix发布安全公告，修复了Zabbix服务器SQL注入漏洞(CVE-2024-42327)
+发布日期：Wed, 04 Dec 2024 101529 +0000
+
+标题：绿盟科技威胁周报（2024.11.25-2024.12.01）
+链接：http://blog.nsfocus.net/weeklyreport202448/
+类型：威胁通告
+内容：绿盟科技威胁周报2024年第48周。
+发布日期：Wed, 04 Dec 2024 101405 +0000
+

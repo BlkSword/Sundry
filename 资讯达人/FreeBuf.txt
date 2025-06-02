@@ -1,0 +1,120 @@
+标题：日本最大的移动运营商因DDoS攻击导致服务中断
+链接：https://www.freebuf.com/news/418992.html
+类型：资讯
+内容：NTT Docomo当地时间1月2日表示，一次DDoS网络攻击导致运营中断，网站和一些服务在宕机大半天后才逐渐恢复。
+发布日期：Fri, 03 Jan 2025 112647 +0800
+
+标题：用户集体起诉Siri“偷听”
+链接：https://www.freebuf.com/news/418989.html
+类型：资讯
+内容：苹果公司同意支付9500万美元现金，以和解一项拟议的集体诉讼，该诉讼声称其Siri语音助手侵犯了用户的隐私。
+发布日期：Fri, 03 Jan 2025 111716 +0800
+
+标题：黑客滥用AWS泄露的信息进行云狩猎
+链接：https://www.freebuf.com/news/418985.html
+类型：资讯
+内容：名为“EC2 Grouper”的黑客组织，近年来一直在利用AWS工具以及泄露的凭证对云环境展开狩猎型攻击。
+发布日期：Fri, 03 Jan 2025 111050 +0800
+
+标题：超过300万台未加密的邮件服务器暴露
+链接：https://www.freebuf.com/news/418975.html
+类型：资讯
+内容：超过300万台未启用TLS加密的POP3和IMAP邮件服务器暴露在互联网上，容易受到网络嗅探攻击。
+发布日期：Fri, 03 Jan 2025 102253 +0800
+
+标题：CertiK Hack3D： Web3.0 年度安全报告（2024）
+链接：https://www.freebuf.com/articles/paper/418966.html
+类型：安全报告
+内容：2024年Web3.0领域因安全事件导致的总损失超过23.63亿美元，同比增幅达31.61%。全年共发生760起安全事件，其中网络钓鱼和私钥泄露是两大主要攻击手段。
+发布日期：Thu, 02 Jan 2025 231605 +0800
+
+标题：shiro-core 框架分析
+链接：https://www.freebuf.com/articles/web/413356.html
+类型：Web安全
+内容：shiro-core 框架分析
+发布日期：Thu, 02 Jan 2025 204016 +0800
+
+标题：FreeBuf早报 | 作者辟谣7-Zip存零日漏洞；法国多地网站遭遇黑客攻击
+链接：https://www.freebuf.com/news/418936.html
+类型：资讯
+内容：12月31日，法国多个城镇和省份的网站无法访问。此前，一个黑客团体声称发动网络攻击，以报复法国支持乌克兰。
+发布日期：Thu, 02 Jan 2025 154509 +0800
+
+标题：分享OAuth2.0原理及漏洞挖掘技巧案例分析
+链接：https://www.freebuf.com/vuls/418923.html
+类型：漏洞
+内容：这篇文章主要是从一个简单的案例来开头，然后后面讲OAuth2.0原理以及相关的一些相关知识。
+发布日期：Thu, 02 Jan 2025 134021 +0800
+
+标题：新的“DoubleClickjacking”漏洞可绕过网站的劫持保护
+链接：https://www.freebuf.com/news/418913.html
+类型：资讯
+内容：该漏洞通过利用双击操作来推动点击劫持攻击及账户接管，几乎波及所有大型网站。
+发布日期：Thu, 02 Jan 2025 114614 +0800
+
+标题：至少35个Chrome扩展被劫持，新细节揭示了黑客的攻击手法
+链接：https://www.freebuf.com/news/418912.html
+类型：资讯
+内容：近期，黑客针对多个Chrome扩展程序进行了攻击，数十万用户受到影响。随着调查的深入，一些攻击活动细节也得到了披露。
+发布日期：Thu, 02 Jan 2025 114104 +0800
+
+标题：Windows 曝9.8分漏洞，已有PoC及利用情况
+链接：https://www.freebuf.com/news/418909.html
+类型：资讯
+内容：CVE - 2024 - 49112属于远程代码执行（RCE）漏洞，会对包括域控制器（DC）在内的Windows服务器产生影响。
+发布日期：Thu, 02 Jan 2025 112958 +0800
+
+标题：记一次CNVD证书的挖掘方式
+链接：https://www.freebuf.com/articles/web/418887.html
+类型：Web安全
+内容：越权漏洞，用户能够修改或访问其他用户（包括管理员）的数据或权限。
+发布日期：Wed, 01 Jan 2025 183317 +0800
+
+标题：漏洞分析 | Apache Struts文件上传漏洞（CVE-2024-53677）
+链接：https://www.freebuf.com/vuls/418881.html
+类型：漏洞
+内容：目前该漏洞POC状态已在互联网公开
+发布日期：Tue, 31 Dec 2024 194746 +0800
+
+标题：《银行保险机构数据安全管理办法》发布
+链接：https://www.freebuf.com/news/418867.html
+类型：资讯
+内容：《办法》要求银行保险机构制定数据分类分级保护制度，建立数据目录和分类分级规范，动态管理和维护数据目录等。
+发布日期：Tue, 31 Dec 2024 170250 +0800
+
+标题：CCSIP 2024中国网络安全行业全景册（第七版）发布 | FreeBuf咨询
+链接：https://www.freebuf.com/consult/418865.html
+类型：咨询
+内容：本次全景册面向广大国内安全厂商，由厂商自主申报并填写信息征集表，为企业安全建设及产品选型提供参考。
+发布日期：Tue, 31 Dec 2024 164816 +0800
+
+标题：viper：一款中国人写的红队服务器——记一次内网穿透练习
+链接：https://www.freebuf.com/articles/network/324283.html
+类型：网络安全
+内容：Viper 是中国人自主编写的一款图形化红队服务器，记录一次使用viper的内网穿透练习。
+发布日期：Tue, 31 Dec 2024 155903 +0800
+
+标题：FreeBuf早报 | 工信部发布SafePay勒索病毒风险提示；2025年最值得关注的新兴威胁
+链接：https://www.freebuf.com/news/418840.html
+类型：资讯
+内容：美国财政部电脑安全护栏据报被中国政府支持的黑客攻击，中国驻美国大使馆回应时批评美国在毫无事实依据的情况下抹黑中国。
+发布日期：Tue, 31 Dec 2024 144535 +0800
+
+标题：老旧D-Link路由器成了僵尸网络的武器
+链接：https://www.freebuf.com/news/418839.html
+类型：资讯
+内容：受影响的设备包括个人和组织常用的D-Link型号，如DIR-645、DIR-806、GO-RT-AC750和DIR-845L。
+发布日期：Tue, 31 Dec 2024 144357 +0800
+
+标题：严重漏洞使大量Four-Faith路由器面临远程利用
+链接：https://www.freebuf.com/news/418819.html
+类型：资讯
+内容：VulnCheck 发现了一个影响Four-Faith（四信）工业路由器的关键新漏洞，并有证据表明漏洞正在被广泛利用。
+发布日期：Tue, 31 Dec 2024 111034 +0800
+
+标题：kubernetes(二）
+链接：https://www.freebuf.com/articles/others-articles/418800.html
+类型：其他
+内容：kubernetes
+发布日期：Mon, 30 Dec 2024 203920 +0800
+

@@ -1,0 +1,6 @@
+标题：DrayTek Vigor2960/Vigor300B 命令注入漏洞(CVE-2024-12987)
+链接：http://www.seebug.org/vuldb/ssvid-99909
+类型：命令注入
+内容：DrayTek Vigor2960/Vigor300B 命令注入漏洞(CVE-2024-12987)
+发布日期：2025-01-02 073653
+
